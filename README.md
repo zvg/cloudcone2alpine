@@ -11,7 +11,7 @@ chmod +x cloudcone2alpine.sh && \
 ./cloudcone2alpine.sh
 ```
 
-## nokvm 使用方法
+## nocloudcone 使用方法
 
 ```sh
 wget --no-check-certificate \
