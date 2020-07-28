@@ -10,3 +10,12 @@ https://raw.githubusercontent.com/zvg/cloudcone2alpine/master/kvm/cloudcone2alpi
 chmod +x cloudcone2alpine.sh && \
 ./cloudcone2alpine.sh
 ```
+
+## nokvm 使用方法
+
+```sh
+wget --no-check-certificate \
+https://raw.githubusercontent.com/zvg/cloudcone2alpine/master/nokvm/alpine.sh && \
+chmod +x alpine.sh && \
+./alpine.sh
+```
